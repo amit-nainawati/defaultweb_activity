@@ -1,0 +1,10 @@
+#VERSION_NUMBER=2.7.3.39-2
+[ambari-2.7.3.39-2]
+#json.url = http://private-repo-1.hortonworks.com/HDP/hdpdev_urlinfo.json
+name=ambari Version - ambari-2.7.3.39-2
+baseurl=https://archive.cloudera.com/p/ambari/2.x/2.7.3.39/centos7
+gpgcheck=1
+gpgkey=https://archive.cloudera.com/p/ambari/2.x/2.7.3.39/centos7/RPM-GPG-KEY/RPM-GPG-KEY-Jenkins
+enabled=1
+priority=1
+
