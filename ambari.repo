@@ -1,4 +1,4 @@
-1
+2
 #VERSION_NUMBER=2.7.3.39-2
 [ambari-2.7.3.39-2]
 #json.url = http://private-repo-1.hortonworks.com/HDP/hdpdev_urlinfo.json
